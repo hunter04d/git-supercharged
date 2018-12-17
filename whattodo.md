@@ -2,8 +2,8 @@
 
 This is a file with a rough description of all of the demos\
 You can use this file to practice using git commands\
-(note: there are no demos of the remote commands however\
- we still encourage you to try some remote commands as well)
+*(note: there are no demos of the remote commands, however\
+ we still encourage you to try some remote commands as well)*
 
 ## **first demo**
 
